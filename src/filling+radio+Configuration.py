@@ -761,7 +761,7 @@ elif currentSiteWsIndex == 5:
 			'J' : tcellList[index - 1],
 			'E' : maxDlPowerList[index - 1],
 			'V' : pcpichList[index - 1],
-			'N' : cellIdList[index - 1]，
+			'N' : cellIdList[index - 1],
 			'S' : umtsCellConfigurationContent[3],
 			'T' : umtsCellConfigurationContent[4]
 			})
